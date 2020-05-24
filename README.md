@@ -1,3 +1,4 @@
+[![Build Status](https://vikaskumawat80.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/vikaskumawat80.mslearn-tailspin-spacegame-web%20(1)?branchName=master)](https://vikaskumawat80.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=17&branchName=master)
 
 # Contributing
 
